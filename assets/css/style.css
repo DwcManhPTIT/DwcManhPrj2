@@ -480,6 +480,10 @@
   margin-bottom: 35px;
 }
 
+.talk-to-us .button-one{
+  border: none;
+}
+
 .talk-to-us .contact-form input{
   border: 1px solid #eee;
   font-size: 14px;
